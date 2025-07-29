@@ -1,1 +1,6 @@
 @import "tailwindcss";
+
+.main-bg{
+    background-image: url(./assets/Bakery-bg.jpg);
+    background-size: contain;
+}
