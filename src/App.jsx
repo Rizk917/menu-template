@@ -105,147 +105,321 @@ const data = {
           price_usd: 4,
           image: "https://picsum.photos/200/300?random=2",
         },
+      ],
+    },
 
-       
-      ],
-    },
     {
-      id: "test1",
-      title: "test1",
-      title_ar: "مقبلات",
+      id: "manakish mashruha",
+      title: "",
+      title_ar: "مناقيش مشروحة",
       image: "https://picsum.photos/60/60?random=1",
       items: [
         {
-          title: "Wedges fries",
-          title_ar: "بطاطا ويدجز",
-          price_usd: 4.5,
+          title: "",
+          title_ar: " زعتر",
+          price_usd: 0.95,
           image: "https://picsum.photos/200/300?random=2",
         },
         {
-          title: "Mozzarella Sticks",
-          title_ar: "أعواد موزاريلا",
-          price_usd: 5.0,
-          image: "https://picsum.photos/200/300?random=3",
+          title: "",
+          title_ar: " جبنه",
+          price_usd: 3.05,
+          image: "https://picsum.photos/200/300?random=2",
+        },
+        {
+          title: "",
+          title_ar: " كشك",
+          price_usd: 2.5,
+          image: "https://picsum.photos/200/300?random=2",
+        },
+
+        {
+          title: "",
+          title_ar: " كوكتيل",
+          price_usd: 2.6,
+          image: "https://picsum.photos/200/300?random=2",
+        },
+
+        {
+          title: "",
+          title_ar: " لبنة",
+          price_usd: 2.25,
+          image: "https://picsum.photos/200/300?random=2",
+        },
+
+        {
+          title: "",
+          title_ar: " بندورة وبصل ",
+          price_usd: 2.25,
+          image: "https://picsum.photos/200/300?random=2",
+        },
+
+        {
+          title: "",
+          title_ar: " قشقوان",
+          price_usd: 3.4,
+          image: "https://picsum.photos/200/300?random=2",
+        },
+
+        {
+          title: "",
+          title_ar: " حلوم",
+          price_usd: 3.05,
+          image: "https://picsum.photos/200/300?random=2",
+        },
+
+        {
+          title: "",
+          title_ar: " حبش وقشقوان ",
+          price_usd: 6.4,
+          image: "https://picsum.photos/200/300?random=2",
         },
       ],
     },
     {
-      id: "test2",
-      title: "test2",
-      title_ar: "مقبلات",
+      id: "Jrish",
+      title: "",
+      title_ar: "جريش",
       image: "https://picsum.photos/60/60?random=1",
       items: [
         {
-          title: "Wedges fries",
-          title_ar: "بطاطا ويدجز",
-          price_usd: 4.5,
+          title: "",
+          title_ar: " زعتر",
+          price_usd: 1.7,
           image: "https://picsum.photos/200/300?random=2",
         },
         {
-          title: "Mozzarella Sticks",
-          title_ar: "أعواد موزاريلا",
-          price_usd: 5.0,
-          image: "https://picsum.photos/200/300?random=3",
+          title: "",
+          title_ar: " جبنه",
+          price_usd: 2.9,
+          image: "https://picsum.photos/200/300?random=2",
+        },
+        {
+          title: "",
+          title_ar: " كشك",
+          price_usd: 2.5,
+          image: "https://picsum.photos/200/300?random=2",
+        },
+        {
+          title: "",
+          title_ar: " كوكتيل",
+          price_usd: 2.7,
+          image: "https://picsum.photos/200/300?random=2",
+        },
+
+        {
+          title: "",
+          title_ar: " لبنة",
+          price_usd: 1.9,
+          image: "https://picsum.photos/200/300?random=2",
+        },
+
+        {
+          title: "",
+          title_ar: " بندورة وبصل ",
+          price_usd: 2.35,
+          image: "https://picsum.photos/200/300?random=2",
+        },
+
+        {
+          title: "",
+          title_ar: " قشقوان",
+          price_usd: 2.6,
+          image: "https://picsum.photos/200/300?random=2",
+        },
+        {
+          title: "",
+          title_ar: " عكاوي",
+          price_usd: 2.35,
+          image: "https://picsum.photos/200/300?random=2",
+        },
+
+        {
+          title: "",
+          title_ar: " حلوم",
+          price_usd: 2.35,
+          image: "https://picsum.photos/200/300?random=2",
+        },
+
+        {
+          title: "",
+          title_ar: " حبش وقشقوان ",
+          price_usd: 2.8,
+          image: "https://picsum.photos/200/300?random=2",
+        },
+
+        {
+          title: "",
+          title_ar: " عكاوي حبش",
+          price_usd: 2.8,
+          image: "https://picsum.photos/200/300?random=2",
+        },
+
+        {
+          title: "",
+          title_ar: "تونة",
+          price_usd: 2.25,
+          image: "https://picsum.photos/200/300?random=2",
         },
       ],
     },
     {
-      id: "test3",
-      title: "test3",
-      title_ar: "مقبلات",
+      id: "ka3ek",
+      title: "",
+      title_ar: "كعكه",
       image: "https://picsum.photos/60/60?random=1",
       items: [
         {
-          title: "Wedges fries",
-          title_ar: "بطاطا ويدجز",
-          price_usd: 4.5,
+          title: "",
+          title_ar: " كعكه سادة",
+          price_usd: 0.8,
           image: "https://picsum.photos/200/300?random=2",
         },
         {
-          title: "Mozzarella Sticks",
-          title_ar: "أعواد موزاريلا",
-          price_usd: 5.0,
-          image: "https://picsum.photos/200/300?random=3",
+          title: "",
+          title_ar: " كعكة زعتر",
+          price_usd: 1,
+          image: "https://picsum.photos/200/300?random=2",
+        },
+        {
+          title: "",
+          title_ar: " كعكة عكاوي ",
+          price_usd: 3.15,
+          image: "https://picsum.photos/200/300?random=2",
+        },
+        {
+          title: "",
+          title_ar: " كعكة زعتر وجبنه ",
+          price_usd: 2,
+          image: "https://picsum.photos/200/300?random=2",
+        },
+
+        {
+          title: "",
+          title_ar: " كعكة حلوم ",
+          price_usd: 3.25,
+          image: "https://picsum.photos/200/300?random=2",
+        },
+
+        {
+          title: "",
+          title_ar: " 3 أنواع جبنه ",
+          price_usd: 3.8,
+          image: "https://picsum.photos/200/300?random=2",
+        },
+
+        {
+          title: "",
+          title_ar: " بيكون ",
+          price_usd: 2.6,
+          image: "https://picsum.photos/200/300?random=2",
+        },
+        {
+          title: "",
+          title_ar: " قشقوان",
+          price_usd: 3.4,
+          image: "https://picsum.photos/200/300?random=2",
+        },
+
+        {
+          title: "",
+          title_ar: " كشك",
+          price_usd: 2.8,
+          image: "https://picsum.photos/200/300?random=2",
+        },
+
+        {
+          title: "",
+          title_ar: " حبش وقشقوان ",
+          price_usd: 3.6,
+          image: "https://picsum.photos/200/300?random=2",
+        },
+
+        {
+          title: "",
+          title_ar: "بيتزا",
+          price_usd: 3.7,
+          image: "https://picsum.photos/200/300?random=2",
+        },
+
+        {
+          title: "",
+          title_ar: "لبنه",
+          price_usd: 2.5,
+          image: "https://picsum.photos/200/300?random=2",
         },
       ],
     },
     {
-      id: "test4",
-      title: "test4",
-      title_ar: "مقبلات",
+      id: "ka3ekeh trabulsiyeh",
+      title: "",
+      title_ar: "كعكة طرابلسية ",
       image: "https://picsum.photos/60/60?random=1",
       items: [
         {
-          title: "Wedges fries",
-          title_ar: "بطاطا ويدجز",
-          price_usd: 4.5,
+          title: "",
+          title_ar: " اللطى سادة",
+          price_usd: 0.45,
           image: "https://picsum.photos/200/300?random=2",
         },
         {
-          title: "Mozzarella Sticks",
-          title_ar: "أعواد موزاريلا",
-          price_usd: 5.0,
-          image: "https://picsum.photos/200/300?random=3",
-        },
-      ],
-    },
-    {
-      id: "test5",
-      title: "test5",
-      title_ar: "مقبلات",
-      image: "https://picsum.photos/60/60?random=1",
-      items: [
-        {
-          title: "Wedges fries",
-          title_ar: "بطاطا ويدجز",
-          price_usd: 4.5,
+          title: "",
+          title_ar: "قشقوان",
+          price_usd: 2.8,
           image: "https://picsum.photos/200/300?random=2",
         },
         {
-          title: "Mozzarella Sticks",
-          title_ar: "أعواد موزاريلا",
-          price_usd: 5.0,
-          image: "https://picsum.photos/200/300?random=3",
-        },
-      ],
-    },
-    {
-      id: "test6",
-      title: "test6",
-      title_ar: "مقبلات",
-      image: "https://picsum.photos/60/60?random=1",
-      items: [
-        {
-          title: "Wedges fries",
-          title_ar: "بطاطا ويدجز",
-          price_usd: 4.5,
+          title: "",
+          title_ar: " حبش وقشقوان",
+          price_usd: 2.7,
           image: "https://picsum.photos/200/300?random=2",
         },
         {
-          title: "Mozzarella Sticks",
-          title_ar: "أعواد موزاريلا",
-          price_usd: 5.0,
-          image: "https://picsum.photos/200/300?random=3",
+          title: "",
+          title_ar: " عكاوي",
+          price_usd: 2.5,
+          image: "https://picsum.photos/200/300?random=2",
         },
-      ],
-    },
-    {
-      id: "salads",
-      title: "Salads",
-      title_ar: "سلطات",
-      image: "https://picsum.photos/60/60?random=4",
-      items: [
+
         {
-          title: "Caesar Salad",
-          title_ar: "سلطة سيزر",
-          price_usd: 6.0,
-          image: "https://picsum.photos/200/300?random=5",
+          title: "",
+          title_ar: "حلوم ",
+          price_usd: 2.6,
+          image: "https://picsum.photos/200/300?random=2",
+        },
+
+        {
+          title: "",
+          title_ar: " نوعين جبنة ",
+          price_usd: 2.7,
+          image: "https://picsum.photos/200/300?random=2",
+        },
+
+        {
+          title: "",
+          title_ar: "لبنه",
+          price_usd: 1.9,
+          image: "https://picsum.photos/200/300?random=2",
         },
         {
-          title: "Greek Salad",
-          title_ar: "سلطة يونانية",
-          price_usd: 5.5,
-          image: "https://picsum.photos/200/300?random=6",
+          title: "",
+          title_ar: "بيكون",
+          price_usd: 1.8,
+          image: "https://picsum.photos/200/300?random=2",
+        },
+
+        {
+          title: "",
+          title_ar: " اللطى بزعتر",
+          price_usd: 2.35,
+          image: "https://picsum.photos/200/300?random=2",
+        },
+
+        {
+          title: "",
+          title_ar: "شوكولا",
+          price_usd: 2.23,
+          image: "https://picsum.photos/200/300?random=2",
         },
       ],
     },
@@ -299,9 +473,11 @@ export default function App() {
           />
         </div>
       </div>
-      <a className="fixed bottom-2 left-2 h-[48px] w-[48px]" href="https://wa.me/+96181681908">
-
-<img src={WspIcon} alt="contactUs" />
+      <a
+        className="fixed bottom-2 left-2 h-[48px] w-[48px]"
+        href="https://wa.me/+96181681908"
+      >
+        <img src={WspIcon} alt="contactUs" />
       </a>
       {/* Name and Type */}
       <div className="mt-16 text-center px-4 bg-white py-2 shadow ">
