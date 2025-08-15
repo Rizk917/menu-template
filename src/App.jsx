@@ -266,7 +266,7 @@ const data = {
     {
       id: "ka3ek",
       title: "",
-      title_ar: "كعكه",
+      title_ar: "كعكة",
       image: "https://picsum.photos/60/60?random=1",
       items: [
         {
