@@ -1,10 +1,12 @@
 import React, { useState } from "react";
 import RestoImg from "./assets/resto-img.jpg";
 import WspIcon from "./assets/wsp.png";
-import NoImg from "./assets/no_image.png"
+import NoImg from "./assets/no_image.png";
+import allImage from "./assets/fourSquare.svg";
+import headerImage from "./assets/mou3ajanet.jpg";
 
 const data = {
-  // headerImage: "https://picsum.photos/800/400",
+  headerImage: headerImage,
   logo: RestoImg,
   name: "Kabouchieh Bakery - فرن الكبوشية",
   type: "Bakery",
@@ -630,19 +632,19 @@ const data = {
           title_ar: " جبنة ",
           price_usd: 4.15,
           image: NoImg,
-        }, 
+        },
         {
           title: "",
           title_ar: " لبنة حبة ",
           price_usd: 0.6,
           image: NoImg,
-        }, 
+        },
         {
           title: "",
           title_ar: " حلوم حبة ",
           price_usd: 0.6,
           image: NoImg,
-        }, 
+        },
         {
           title: "",
           title_ar: " تونا حبة ",
@@ -715,7 +717,7 @@ const data = {
         {
           title: "",
           title_ar: " كعك العباس ",
-          price_usd: 1.10,
+          price_usd: 1.1,
           image: NoImg,
         },
         {
@@ -745,27 +747,27 @@ const data = {
         {
           title: "",
           title_ar: " توست صغير ",
-          price_usd: 1.10,
+          price_usd: 1.1,
           image: NoImg,
-        }, 
+        },
         {
           title: "",
           title_ar: "  أصابع موالح ",
-          price_usd: 1.90,
+          price_usd: 1.9,
           image: NoImg,
-        }, 
+        },
         {
           title: "",
           title_ar: "  -----  ",
           price_usd: 2.8,
           image: NoImg,
-        }, 
+        },
         {
           title: "",
           title_ar: "  -----  ",
           price_usd: 2.34,
           image: NoImg,
-        }, 
+        },
       ],
     },
     {
@@ -858,13 +860,13 @@ const data = {
           title_ar: " حبة قرص تمر ",
           price_usd: 0.55,
           image: NoImg,
-        }, 
+        },
         {
           title: "",
           title_ar: " حبة جوز الهند ",
           price_usd: 0.8,
           image: NoImg,
-        }, 
+        },
       ],
     },
     {
@@ -951,7 +953,7 @@ const data = {
         {
           title: "",
           title_ar: " حبة أسمر ",
-          price_usd: 0.20,
+          price_usd: 0.2,
           image: NoImg,
         },
         {
@@ -993,7 +995,7 @@ const VIEW_ALL_CATEGORY = {
   id: "view_all",
   title: "View All",
   title_ar: "عرض الكل",
-  image: NoImg,
+  image: allImage,
 };
 export default function App() {
   const categoriesWithViewAll = [VIEW_ALL_CATEGORY, ...data.categories];
@@ -1021,7 +1023,11 @@ export default function App() {
   return (
     <div className="max-w-md min-h-dvh mx-auto main-bg  shadow-lg overflow-hidden">
       {/* Header Image */}
-      <div className="relative h-40 bg-[#153A43]">
+      {/* <div className="relative h-40 bg-[#153A43]"> */}
+      <div
+        className="relative h-40 bg-cover bg-center"
+        style={{ backgroundImage: `url(${headerImage})` }}
+      >
         {/* <img
           src={data.headerImage}
           alt="header"
