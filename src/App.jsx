@@ -1,6 +1,7 @@
 import React, { useState } from "react";
 import RestoImg from "./assets/resto-img.jpg";
 import WspIcon from "./assets/wsp.png";
+import NoImg from "./assets/no_image.png"
 
 const data = {
   // headerImage: "https://picsum.photos/800/400",
@@ -15,95 +16,95 @@ const data = {
       id: "manakish",
       title: "",
       title_ar: "مناقيش",
-      image: "https://picsum.photos/60/60?random=1",
+      image: NoImg,
       items: [
         {
           title: "",
           title_ar: " زعتر",
           price_usd: 0.8,
-          image: "https://picsum.photos/200/300?random=2",
+          image: NoImg,
         },
         {
           title: "",
           title_ar: " جبنه",
           price_usd: 2.6,
-          image: "https://picsum.photos/200/300?random=2",
+          image: NoImg,
         },
         {
           title: "",
           title_ar: " كشك",
           price_usd: 2.25,
-          image: "https://picsum.photos/200/300?random=2",
+          image: NoImg,
         },
 
         {
           title: "",
           title_ar: " كوكتيل",
-          price_usd: 2.25,
-          image: "https://picsum.photos/200/300?random=2",
+          price_usd: 2.35,
+          image: NoImg,
         },
 
         {
           title: "",
           title_ar: " لبنة",
           price_usd: 2,
-          image: "https://picsum.photos/200/300?random=2",
+          image: NoImg,
         },
 
         {
           title: "",
           title_ar: " بندورة وبصل ",
           price_usd: 1.9,
-          image: "https://picsum.photos/200/300?random=2",
+          image: NoImg,
         },
 
         {
           title: "",
           title_ar: " قشقوان",
           price_usd: 2.8,
-          image: "https://picsum.photos/200/300?random=2",
+          image: NoImg,
         },
 
         {
           title: "",
           title_ar: " حلوم",
           price_usd: 2.7,
-          image: "https://picsum.photos/200/300?random=2",
+          image: NoImg,
         },
 
         {
           title: "",
           title_ar: " حبش وقشقوان ",
           price_usd: 2.8,
-          image: "https://picsum.photos/200/300?random=2",
+          image: NoImg,
         },
 
         {
           title: "",
           title_ar: " لحمة",
           price_usd: 3.05,
-          image: "https://picsum.photos/200/300?random=2",
+          image: NoImg,
         },
 
         {
           title: "",
           title_ar: " بيتزا",
           price_usd: 3.25,
-          image: "https://picsum.photos/200/300?random=2",
+          image: NoImg,
         },
 
         {
           title: "",
           title_ar: " سجق وجبنه",
           price_usd: 4,
-          image: "https://picsum.photos/200/300?random=2",
+          image: NoImg,
         },
 
         {
           title: "",
           title_ar: " كفتة وجبنه ",
           price_usd: 4,
-          image: "https://picsum.photos/200/300?random=2",
+          image: NoImg,
         },
       ],
     },
@@ -112,67 +113,67 @@ const data = {
       id: "manakish mashruha",
       title: "",
       title_ar: "مناقيش مشروحة",
-      image: "https://picsum.photos/60/60?random=1",
+      image: NoImg,
       items: [
         {
           title: "",
           title_ar: " زعتر",
           price_usd: 0.95,
-          image: "https://picsum.photos/200/300?random=2",
+          image: NoImg,
         },
         {
           title: "",
           title_ar: " جبنه",
           price_usd: 3.05,
-          image: "https://picsum.photos/200/300?random=2",
+          image: NoImg,
         },
         {
           title: "",
           title_ar: " كشك",
           price_usd: 2.5,
-          image: "https://picsum.photos/200/300?random=2",
+          image: NoImg,
         },
 
         {
           title: "",
           title_ar: " كوكتيل",
           price_usd: 2.6,
-          image: "https://picsum.photos/200/300?random=2",
+          image: NoImg,
         },
 
         {
           title: "",
           title_ar: " لبنة",
-          price_usd: 2.25,
-          image: "https://picsum.photos/200/300?random=2",
+          price_usd: 2.35,
+          image: NoImg,
         },
 
         {
           title: "",
           title_ar: " بندورة وبصل ",
           price_usd: 2.25,
-          image: "https://picsum.photos/200/300?random=2",
+          image: NoImg,
         },
 
         {
           title: "",
           title_ar: " قشقوان",
           price_usd: 3.4,
-          image: "https://picsum.photos/200/300?random=2",
+          image: NoImg,
         },
 
         {
           title: "",
           title_ar: " حلوم",
           price_usd: 3.05,
-          image: "https://picsum.photos/200/300?random=2",
+          image: NoImg,
         },
 
         {
           title: "",
           title_ar: " حبش وقشقوان ",
           price_usd: 6.4,
-          image: "https://picsum.photos/200/300?random=2",
+          image: NoImg,
         },
       ],
     },
@@ -180,86 +181,70 @@ const data = {
       id: "Jrish",
       title: "",
       title_ar: "جريش",
-      image: "https://picsum.photos/60/60?random=1",
+      image: NoImg,
       items: [
         {
           title: "",
           title_ar: " زعتر",
           price_usd: 1.7,
-          image: "https://picsum.photos/200/300?random=2",
+          image: NoImg,
         },
         {
           title: "",
           title_ar: " جبنه",
           price_usd: 2.9,
-          image: "https://picsum.photos/200/300?random=2",
+          image: NoImg,
         },
         {
           title: "",
           title_ar: " كشك",
           price_usd: 2.5,
-          image: "https://picsum.photos/200/300?random=2",
+          image: NoImg,
         },
         {
           title: "",
           title_ar: " كوكتيل",
           price_usd: 2.7,
-          image: "https://picsum.photos/200/300?random=2",
+          image: NoImg,
         },
 
         {
           title: "",
           title_ar: " لبنة",
-          price_usd: 1.9,
-          image: "https://picsum.photos/200/300?random=2",
+          price_usd: 2.5,
+          image: NoImg,
         },
 
         {
           title: "",
           title_ar: " بندورة وبصل ",
           price_usd: 2.35,
-          image: "https://picsum.photos/200/300?random=2",
+          image: NoImg,
         },
 
         {
           title: "",
           title_ar: " قشقوان",
-          price_usd: 2.6,
-          image: "https://picsum.photos/200/300?random=2",
+          price_usd: 3.25,
+          image: NoImg,
         },
         {
           title: "",
-          title_ar: " عكاوي",
-          price_usd: 2.35,
-          image: "https://picsum.photos/200/300?random=2",
+          title_ar: " ",
+          price_usd: 3.4,
+          image: NoImg,
         },
-
-        {
-          title: "",
-          title_ar: " حلوم",
-          price_usd: 2.35,
-          image: "https://picsum.photos/200/300?random=2",
-        },
-
         {
           title: "",
           title_ar: " حبش وقشقوان ",
-          price_usd: 2.8,
-          image: "https://picsum.photos/200/300?random=2",
+          price_usd: 3.6,
+          image: NoImg,
         },
-
         {
           title: "",
-          title_ar: " عكاوي حبش",
-          price_usd: 2.8,
-          image: "https://picsum.photos/200/300?random=2",
-        },
-
-        {
-          title: "",
-          title_ar: "تونة",
-          price_usd: 2.25,
-          image: "https://picsum.photos/200/300?random=2",
+          title_ar: " ",
+          price_usd: 3.6,
+          image: NoImg,
         },
       ],
     },
@@ -267,86 +252,97 @@ const data = {
       id: "ka3ek",
       title: "",
       title_ar: "كعكة",
-      image: "https://picsum.photos/60/60?random=1",
+      image: NoImg,
       items: [
         {
           title: "",
           title_ar: " كعكه سادة",
-          price_usd: 0.8,
-          image: "https://picsum.photos/200/300?random=2",
+          price_usd: 0.9,
+          image: NoImg,
         },
         {
           title: "",
           title_ar: " كعكة زعتر",
           price_usd: 1,
-          image: "https://picsum.photos/200/300?random=2",
+          image: NoImg,
         },
         {
           title: "",
           title_ar: " كعكة عكاوي ",
           price_usd: 3.15,
-          image: "https://picsum.photos/200/300?random=2",
+          image: NoImg,
         },
         {
           title: "",
           title_ar: " كعكة زعتر وجبنه ",
           price_usd: 2,
-          image: "https://picsum.photos/200/300?random=2",
+          image: NoImg,
         },
-
         {
           title: "",
           title_ar: " كعكة حلوم ",
           price_usd: 3.25,
-          image: "https://picsum.photos/200/300?random=2",
+          image: NoImg,
         },
-
+        {
+          title: "",
+          title_ar: " نوعين ",
+          price_usd: 3.25,
+          image: NoImg,
+        },
         {
           title: "",
           title_ar: " 3 أنواع جبنه ",
           price_usd: 3.8,
-          image: "https://picsum.photos/200/300?random=2",
+          image: NoImg,
         },
 
         {
           title: "",
           title_ar: " بيكون ",
-          price_usd: 2.6,
-          image: "https://picsum.photos/200/300?random=2",
+          price_usd: 2.15,
+          image: NoImg,
         },
         {
           title: "",
           title_ar: " قشقوان",
           price_usd: 3.4,
-          image: "https://picsum.photos/200/300?random=2",
+          image: NoImg,
         },
 
         {
           title: "",
           title_ar: " كشك",
           price_usd: 2.8,
-          image: "https://picsum.photos/200/300?random=2",
+          image: NoImg,
         },
 
         {
           title: "",
           title_ar: " حبش وقشقوان ",
           price_usd: 3.6,
-          image: "https://picsum.photos/200/300?random=2",
+          image: NoImg,
+        },
+
+        {
+          title: "",
+          title_ar: " سجق وقشقوان ",
+          price_usd: 4.5,
+          image: NoImg,
         },
 
         {
           title: "",
           title_ar: "بيتزا",
           price_usd: 3.7,
-          image: "https://picsum.photos/200/300?random=2",
+          image: NoImg,
         },
 
         {
           title: "",
           title_ar: "لبنه",
           price_usd: 2.5,
-          image: "https://picsum.photos/200/300?random=2",
+          image: NoImg,
         },
       ],
     },
@@ -354,72 +350,639 @@ const data = {
       id: "ka3ekeh trabulsiyeh",
       title: "",
       title_ar: "كعكة طرابلسية ",
-      image: "https://picsum.photos/60/60?random=1",
+      image: NoImg,
       items: [
         {
           title: "",
           title_ar: " اللطى سادة",
           price_usd: 0.45,
-          image: "https://picsum.photos/200/300?random=2",
+          image: NoImg,
         },
         {
           title: "",
           title_ar: "قشقوان",
           price_usd: 2.8,
-          image: "https://picsum.photos/200/300?random=2",
+          image: NoImg,
         },
         {
           title: "",
           title_ar: " حبش وقشقوان",
           price_usd: 2.7,
-          image: "https://picsum.photos/200/300?random=2",
+          image: NoImg,
         },
         {
           title: "",
           title_ar: " عكاوي",
           price_usd: 2.5,
-          image: "https://picsum.photos/200/300?random=2",
+          image: NoImg,
         },
 
         {
           title: "",
           title_ar: "حلوم ",
           price_usd: 2.6,
-          image: "https://picsum.photos/200/300?random=2",
+          image: NoImg,
         },
 
         {
           title: "",
           title_ar: " نوعين جبنة ",
           price_usd: 2.7,
-          image: "https://picsum.photos/200/300?random=2",
+          image: NoImg,
         },
 
         {
           title: "",
           title_ar: "لبنه",
           price_usd: 1.9,
-          image: "https://picsum.photos/200/300?random=2",
+          image: NoImg,
         },
         {
           title: "",
           title_ar: "بيكون",
           price_usd: 1.8,
-          image: "https://picsum.photos/200/300?random=2",
+          image: NoImg,
         },
 
         {
           title: "",
           title_ar: " اللطى بزعتر",
           price_usd: 2.35,
-          image: "https://picsum.photos/200/300?random=2",
+          image: NoImg,
         },
 
         {
           title: "",
           title_ar: "شوكولا",
           price_usd: 2.23,
-          image: "https://picsum.photos/200/300?random=2",
+          image: NoImg,
+        },
+      ],
+    },
+
+    {
+      id: "Sandwich ",
+      title: "",
+      title_ar: " سندويش ",
+      image: NoImg,
+      items: [
+        {
+          title: "",
+          title_ar: " لبنة",
+          price_usd: 1.9,
+          image: NoImg,
+        },
+        {
+          title: "",
+          title_ar: "حلوم",
+          price_usd: 2.35,
+          image: NoImg,
+        },
+        {
+          title: "",
+          title_ar: " عكاوي",
+          price_usd: 2.35,
+          image: NoImg,
+        },
+        {
+          title: "",
+          title_ar: " قشقوان ",
+          price_usd: 2.6,
+          image: NoImg,
+        },
+
+        {
+          title: "",
+          title_ar: " حبش ",
+          price_usd: 2.25,
+          image: NoImg,
+        },
+        {
+          title: "",
+          title_ar: " حبش وقشقوان ",
+          price_usd: 2.8,
+          image: NoImg,
+        },
+
+        {
+          title: "",
+          title_ar: " بيكون",
+          price_usd: 1.9,
+          image: NoImg,
+        },
+
+        {
+          title: "",
+          title_ar: " نوعين جبنة ",
+          price_usd: 2.8,
+          image: NoImg,
+        },
+
+        {
+          title: "",
+          title_ar: "تونا",
+          price_usd: 2.25,
+          image: NoImg,
+        },
+      ],
+    },
+
+    {
+      id: "Arayes ",
+      title: "",
+      title_ar: " عرايس ",
+      image: NoImg,
+      items: [
+        {
+          title: "",
+          title_ar: " عرايس جبنة",
+          price_usd: 2.6,
+          image: NoImg,
+        },
+        {
+          title: "",
+          title_ar: " عرايس كفتة ",
+          price_usd: 2.9,
+          image: NoImg,
+        },
+        {
+          title: "",
+          title_ar: " عرايس سجق وجبنة ",
+          price_usd: 3.7,
+          image: NoImg,
+        },
+        {
+          title: "",
+          title_ar: " عرايس حلوم ",
+          price_usd: 2.7,
+          image: NoImg,
+        },
+
+        {
+          title: "",
+          title_ar: " عرايس لبنة ",
+          price_usd: 2,
+          image: NoImg,
+        },
+        {
+          title: "",
+          title_ar: " عرايس قشقوان ",
+          price_usd: 2.8,
+          image: NoImg,
+        },
+
+        {
+          title: "",
+          title_ar: " عرايس حبش وقشقوان ",
+          price_usd: 2.8,
+          image: NoImg,
+        },
+      ],
+    },
+
+    {
+      id: "Muaajanet ",
+      title: "",
+      title_ar: " معجنات سواريه ",
+      image: NoImg,
+      items: [
+        {
+          title: "",
+          title_ar: " فطاير زعتر أخضر ",
+          price_usd: 4.5,
+          image: NoImg,
+        },
+        {
+          title: "",
+          title_ar: " سبانخ ",
+          price_usd: 3.6,
+          image: NoImg,
+        },
+        {
+          title: "",
+          title_ar: " سبانخ خلطة   ",
+          price_usd: 3.9,
+          image: NoImg,
+        },
+        {
+          title: "",
+          title_ar: " سبانخ خلطة مع لبنة ",
+          price_usd: 4.5,
+          image: NoImg,
+        },
+
+        {
+          title: "",
+          title_ar: " بيتزا ",
+          price_usd: 3.7,
+          image: NoImg,
+        },
+        {
+          title: "",
+          title_ar: " بعلبكية ",
+          price_usd: 4.5,
+          image: NoImg,
+        },
+        {
+          title: "",
+          title_ar: "  ",
+          price_usd: 0.85,
+          image: NoImg,
+        },
+        {
+          title: "",
+          title_ar: " طرابلسية حبة ",
+          price_usd: 0.85,
+          image: NoImg,
+        },
+        {
+          title: "",
+          title_ar: " كشك ",
+          price_usd: 3.4,
+          image: NoImg,
+        },
+        {
+          title: "",
+          title_ar: " زعتر ",
+          price_usd: 2.9,
+          image: NoImg,
+        },
+        {
+          title: "",
+          title_ar: " سمبوسك جبنة ",
+          price_usd: 4.5,
+          image: NoImg,
+        },
+        {
+          title: "",
+          title_ar: " بيتزا بيبروني ",
+          price_usd: 3.7,
+          image: NoImg,
+        },
+        {
+          title: "",
+          title_ar: " جبنة ",
+          price_usd: 4.15,
+          image: NoImg,
+        },
+        {
+          title: "",
+          title_ar: " جبنة ",
+          price_usd: 4.15,
+          image: NoImg,
+        }, 
+        {
+          title: "",
+          title_ar: " لبنة حبة ",
+          price_usd: 0.6,
+          image: NoImg,
+        }, 
+        {
+          title: "",
+          title_ar: " حلوم حبة ",
+          price_usd: 0.6,
+          image: NoImg,
+        }, 
+        {
+          title: "",
+          title_ar: " تونا حبة ",
+          price_usd: 0.6,
+          image: NoImg,
+        },
+        {
+          title: "",
+          title_ar: " قشقوان حبة ",
+          price_usd: 0.6,
+          image: NoImg,
+        },
+      ],
+    },
+    {
+      id: "Kaak + Jrish ",
+      title: "",
+      title_ar: "  كعك + جريش ",
+      image: NoImg,
+      items: [
+        {
+          title: "",
+          title_ar: "  كعك دبس ",
+          price_usd: 2.35,
+          image: NoImg,
+        },
+        {
+          title: "",
+          title_ar: " كعك بزعتر ",
+          price_usd: 2.25,
+          image: NoImg,
+        },
+        {
+          title: "",
+          title_ar: " كعك حلو   ",
+          price_usd: 2.35,
+          image: NoImg,
+        },
+        {
+          title: "",
+          title_ar: "  كعك ------  ",
+          price_usd: 2.25,
+          image: NoImg,
+        },
+
+        {
+          title: "",
+          title_ar: " كعك مشكل ",
+          price_usd: 1.8,
+          image: NoImg,
+        },
+        {
+          title: "",
+          title_ar: " كعك -- ",
+          price_usd: 1.8,
+          image: NoImg,
+        },
+        {
+          title: "",
+          title_ar: " كعك هوا ",
+          price_usd: 2,
+          image: NoImg,
+        },
+        {
+          title: "",
+          title_ar: " توست زبيب ",
+          price_usd: 2.35,
+          image: NoImg,
+        },
+        {
+          title: "",
+          title_ar: " كعك العباس ",
+          price_usd: 1.10,
+          image: NoImg,
+        },
+        {
+          title: "",
+          title_ar: " كعك لايت ",
+          price_usd: 2.25,
+          image: NoImg,
+        },
+        {
+          title: "",
+          title_ar: " كعك خلطة----- ",
+          price_usd: 2.35,
+          image: NoImg,
+        },
+        {
+          title: "",
+          title_ar: " توست محمص ",
+          price_usd: 1.25,
+          image: NoImg,
+        },
+        {
+          title: "",
+          title_ar: " توست طري ",
+          price_usd: 2.25,
+          image: NoImg,
+        },
+        {
+          title: "",
+          title_ar: " توست صغير ",
+          price_usd: 1.10,
+          image: NoImg,
+        }, 
+        {
+          title: "",
+          title_ar: "  أصابع موالح ",
+          price_usd: 1.90,
+          image: NoImg,
+        }, 
+        {
+          title: "",
+          title_ar: "  -----  ",
+          price_usd: 2.8,
+          image: NoImg,
+        }, 
+        {
+          title: "",
+          title_ar: "  -----  ",
+          price_usd: 2.34,
+          image: NoImg,
+        }, 
+      ],
+    },
+    {
+      id: "Patisserie ",
+      title: "",
+      title_ar: " باتيسري ",
+      image: NoImg,
+      items: [
+        {
+          title: "",
+          title_ar: "  ----  ",
+          price_usd: 14.6,
+          image: NoImg,
+        },
+        {
+          title: "",
+          title_ar: "  علبة--- ",
+          price_usd: 2.5,
+          image: NoImg,
+        },
+        {
+          title: "",
+          title_ar: "  ---- شوكولا   ",
+          price_usd: 2.9,
+          image: NoImg,
+        },
+        {
+          title: "",
+          title_ar: " حبة تارت مشمش ",
+          price_usd: 1.35,
+          image: NoImg,
+        },
+
+        {
+          title: "",
+          title_ar: "  قالب تارت كبير مشمش ",
+          price_usd: 7.5,
+          image: NoImg,
+        },
+        {
+          title: "",
+          title_ar: " حبة سابلية  ",
+          price_usd: 1.35,
+          image: NoImg,
+        },
+        {
+          title: "",
+          title_ar: " حبة سابليه قلوبات ",
+          price_usd: 1.6,
+          image: NoImg,
+        },
+        {
+          title: "",
+          title_ar: " حبة براونيز ",
+          price_usd: 0.7,
+          image: NoImg,
+        },
+        {
+          title: "",
+          title_ar: " حبة كيك ",
+          price_usd: 0.55,
+          image: NoImg,
+        },
+        {
+          title: "",
+          title_ar: " قالب كيك ",
+          price_usd: 3.95,
+          image: NoImg,
+        },
+        {
+          title: "",
+          title_ar: "  علبة ----- ",
+          price_usd: 2.5,
+          image: NoImg,
+        },
+        {
+          title: "",
+          title_ar: "  علبة غريبة بيضاء ",
+          price_usd: 2.5,
+          image: NoImg,
+        },
+        {
+          title: "",
+          title_ar: " علبة أصابع تمر ",
+          price_usd: 2.35,
+          image: NoImg,
+        },
+        {
+          title: "",
+          title_ar: " حبة قرص تمر ",
+          price_usd: 0.55,
+          image: NoImg,
+        }, 
+        {
+          title: "",
+          title_ar: " حبة جوز الهند ",
+          price_usd: 0.8,
+          image: NoImg,
+        }, 
+      ],
+    },
+    {
+      id: "Beriosh ",
+      title: "",
+      title_ar: " بريوش ",
+      image: NoImg,
+      items: [
+        {
+          title: "",
+          title_ar: " بريوش سكر  ",
+          price_usd: 1.34,
+          image: NoImg,
+        },
+        {
+          title: "",
+          title_ar: " بريوش مجدول صغير ",
+          price_usd: 1.34,
+          image: NoImg,
+        },
+        {
+          title: "",
+          title_ar: " بريوش مجدول كبير ",
+          price_usd: 2.47,
+          image: NoImg,
+        },
+        {
+          title: "",
+          title_ar: " بريوش تمر صغير ",
+          price_usd: 0.78,
+          image: NoImg,
+        },
+
+        {
+          title: "",
+          title_ar: " بريوش تمر كبير ",
+          price_usd: 1.34,
+          image: NoImg,
+        },
+        {
+          title: "",
+          title_ar: " بريوش شوكولا  ",
+          price_usd: 1.57,
+          image: NoImg,
+        },
+        {
+          title: "",
+          title_ar: " بريوش  جوز الهند ",
+          price_usd: 1.57,
+          image: NoImg,
+        },
+        {
+          title: "",
+          title_ar: " بريوش جبنة ",
+          price_usd: 1.57,
+          image: NoImg,
+        },
+      ],
+    },
+    {
+      id: " Franje + Burger ",
+      title: "",
+      title_ar: " افرنجي + برغر ",
+      image: NoImg,
+      items: [
+        {
+          title: "",
+          title_ar: " حبة فاهيتا  ",
+          price_usd: 0.28,
+          image: NoImg,
+        },
+        {
+          title: "",
+          title_ar: "  حبة افرنجي ",
+          price_usd: 0.16,
+          image: NoImg,
+        },
+        {
+          title: "",
+          title_ar: "  حبة باغيت ",
+          price_usd: 0.16,
+          image: NoImg,
+        },
+        {
+          title: "",
+          title_ar: " حبة أسمر ",
+          price_usd: 0.20,
+          image: NoImg,
+        },
+        {
+          title: "",
+          title_ar: " حبة برغر ",
+          price_usd: 0.19,
+          image: NoImg,
+        },
+        {
+          title: "",
+          title_ar: " حبة ب.ب  ",
+          price_usd: 0.11,
+          image: NoImg,
+        },
+        {
+          title: "",
+          title_ar: " حبة --- ",
+          price_usd: 0.19,
+          image: NoImg,
+        },
+        {
+          title: "",
+          title_ar: " حبة سواردو ",
+          price_usd: 5,
+          image: NoImg,
+        },
+        {
+          title: "",
+          title_ar: " حبة سواردو صغير ",
+          price_usd: 3.37,
+          image: NoImg,
         },
       ],
     },
@@ -430,7 +993,7 @@ const VIEW_ALL_CATEGORY = {
   id: "view_all",
   title: "View All",
   title_ar: "عرض الكل",
-  image: "https://picsum.photos/60/60?grayscale", // any placeholder image
+  image: NoImg,
 };
 export default function App() {
   const categoriesWithViewAll = [VIEW_ALL_CATEGORY, ...data.categories];
