@@ -232,7 +232,7 @@ const data = {
         },
         {
           title: "",
-          title_ar: " ",
+          title_ar: " نوعان جبنة",
           price_usd: 3.4,
           image: NoImg,
         },
@@ -244,7 +244,7 @@ const data = {
         },
         {
           title: "",
-          title_ar: " ",
+          title_ar: "بيتزا ",
           price_usd: 3.6,
           image: NoImg,
         },
@@ -253,36 +253,36 @@ const data = {
     {
       id: "ka3ek",
       title: "",
-      title_ar: "كعكة",
+      title_ar: " كعكة",
       image: NoImg,
       items: [
         {
           title: "",
-          title_ar: " كعكه سادة",
+          title_ar: " سادة",
           price_usd: 0.9,
           image: NoImg,
         },
         {
           title: "",
-          title_ar: " كعكة زعتر",
+          title_ar: " زعتر",
           price_usd: 1,
           image: NoImg,
         },
         {
           title: "",
-          title_ar: " كعكة عكاوي ",
+          title_ar: "عكاوي ",
           price_usd: 3.15,
           image: NoImg,
         },
         {
           title: "",
-          title_ar: " كعكة زعتر وجبنه ",
+          title_ar: " زعتر وجبنه ",
           price_usd: 2,
           image: NoImg,
         },
         {
           title: "",
-          title_ar: " كعكة حلوم ",
+          title_ar: " حلوم ",
           price_usd: 3.25,
           image: NoImg,
         },
@@ -356,7 +356,7 @@ const data = {
       items: [
         {
           title: "",
-          title_ar: " اللطى سادة",
+          title_ar: " سادة",
           price_usd: 0.45,
           image: NoImg,
         },
@@ -406,12 +406,7 @@ const data = {
           image: NoImg,
         },
 
-        {
-          title: "",
-          title_ar: " اللطى بزعتر",
-          price_usd: 2.35,
-          image: NoImg,
-        },
+  
 
         {
           title: "",
@@ -497,45 +492,45 @@ const data = {
       items: [
         {
           title: "",
-          title_ar: " عرايس جبنة",
+          title_ar: "  جبنة",
           price_usd: 2.6,
           image: NoImg,
         },
         {
           title: "",
-          title_ar: " عرايس كفتة ",
+          title_ar: " كفتة ",
           price_usd: 2.9,
           image: NoImg,
         },
         {
           title: "",
-          title_ar: " عرايس سجق وجبنة ",
+          title_ar: "  سجق وجبنة ",
           price_usd: 3.7,
           image: NoImg,
         },
         {
           title: "",
-          title_ar: " عرايس حلوم ",
+          title_ar: "  حلوم ",
           price_usd: 2.7,
           image: NoImg,
         },
 
         {
           title: "",
-          title_ar: " عرايس لبنة ",
+          title_ar: "  لبنة ",
           price_usd: 2,
           image: NoImg,
         },
         {
           title: "",
-          title_ar: " عرايس قشقوان ",
+          title_ar: "  قشقوان ",
           price_usd: 2.8,
           image: NoImg,
         },
 
         {
           title: "",
-          title_ar: " عرايس حبش وقشقوان ",
+          title_ar: "  حبش وقشقوان ",
           price_usd: 2.8,
           image: NoImg,
         },
@@ -587,7 +582,7 @@ const data = {
         },
         {
           title: "",
-          title_ar: "  ",
+          title_ar: " ",
           price_usd: 0.85,
           image: NoImg,
         },
@@ -660,9 +655,9 @@ const data = {
       ],
     },
     {
-      id: "Kaak + Jrish ",
+      id: "Kaak + اثمخ ",
       title: "",
-      title_ar: "  كعك + جريش ",
+      title_ar: "  كعك مشكل + كعك حلو",
       image: NoImg,
       items: [
         {
@@ -685,7 +680,7 @@ const data = {
         },
         {
           title: "",
-          title_ar: "  كعك ------  ",
+          title_ar: "  كعك ترمسي ",
           price_usd: 2.25,
           image: NoImg,
         },
@@ -698,7 +693,7 @@ const data = {
         },
         {
           title: "",
-          title_ar: " كعك -- ",
+          title_ar: " كعك قرشلي ",
           price_usd: 1.8,
           image: NoImg,
         },
@@ -728,7 +723,7 @@ const data = {
         },
         {
           title: "",
-          title_ar: " كعك خلطة----- ",
+          title_ar: " حر وزعتر و زيتون + كعك قليطة ",
           price_usd: 2.35,
           image: NoImg,
         },
@@ -758,16 +753,11 @@ const data = {
         },
         {
           title: "",
-          title_ar: "  -----  ",
-          price_usd: 2.8,
-          image: NoImg,
-        },
-        {
-          title: "",
-          title_ar: "  -----  ",
+          title_ar: "  كراكرز +حر وزعتر و زيتون ",
           price_usd: 2.34,
           image: NoImg,
         },
+        
       ],
     },
     {
@@ -778,19 +768,19 @@ const data = {
       items: [
         {
           title: "",
-          title_ar: "  ----  ",
+          title_ar: "  1kg بتي فور ",
           price_usd: 14.6,
           image: NoImg,
         },
         {
           title: "",
-          title_ar: "  علبة--- ",
+          title_ar: "  علبة بتي فور دايت  ",
           price_usd: 2.5,
           image: NoImg,
         },
         {
           title: "",
-          title_ar: "  ---- شوكولا   ",
+          title_ar: "  بسكويت شوكولا دايت ",
           price_usd: 2.9,
           image: NoImg,
         },
@@ -800,10 +790,21 @@ const data = {
           price_usd: 1.35,
           image: NoImg,
         },
-
+        {
+          title: "",
+          title_ar: " حبة تارت فريز ",
+          price_usd: 1.35,
+          image: NoImg,
+        },
         {
           title: "",
           title_ar: "  قالب تارت كبير مشمش ",
+          price_usd: 7.5,
+          image: NoImg,
+        },
+                {
+          title: "",
+          title_ar: "  قالب تارت كبير فريز ",
           price_usd: 7.5,
           image: NoImg,
         },
@@ -827,7 +828,7 @@ const data = {
         },
         {
           title: "",
-          title_ar: " حبة كيك ",
+          title_ar: " كاب كيك ",
           price_usd: 0.55,
           image: NoImg,
         },
@@ -839,7 +840,13 @@ const data = {
         },
         {
           title: "",
-          title_ar: "  علبة ----- ",
+          title_ar: "   علبة برازق سمسم  ",
+          price_usd: 2.5,
+          image: NoImg,
+        },
+              {
+          title: "",
+          title_ar: "علبة برازق فستق عبيد  ",
           price_usd: 2.5,
           image: NoImg,
         },
@@ -857,13 +864,13 @@ const data = {
         },
         {
           title: "",
-          title_ar: " حبة قرص تمر ",
+          title_ar: "  قرص تمر ",
           price_usd: 0.55,
           image: NoImg,
         },
         {
           title: "",
-          title_ar: " حبة جوز الهند ",
+          title_ar: " قرص0 جوز الهند ",
           price_usd: 0.8,
           image: NoImg,
         },
@@ -970,19 +977,19 @@ const data = {
         },
         {
           title: "",
-          title_ar: " حبة --- ",
+          title_ar: " حبةافرنجي كبير  ",
           price_usd: 0.19,
           image: NoImg,
         },
         {
           title: "",
-          title_ar: " حبة سواردو ",
+          title_ar: "  سواردو كبير ",
           price_usd: 5,
           image: NoImg,
         },
         {
           title: "",
-          title_ar: " حبة سواردو صغير ",
+          title_ar: "  سواردو صغير ",
           price_usd: 3.37,
           image: NoImg,
         },
