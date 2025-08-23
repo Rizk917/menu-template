@@ -1094,7 +1094,7 @@ export default function App() {
         {groupedItemsToDisplay.map(({ category, items }) => (
           <div key={category.id} className="mb-6">
             {/* Show category title and image */}
-            <div className="bg-white p-3 rounded-lg shadow mb-3">
+            <div className="bg-[#000000] text-white p-3 rounded-lg shadow-lg mb-3">
               <h2 className="text-lg font-bold flex items-center justify-between gap-2">
                 <img
                   src={category.image}
