@@ -1005,7 +1005,7 @@ const data = {
       id: " Drinks",
       title: "",
       title_ar: " مشروبات",
-      image: "src/assets/drink.png",
+      image: "./assets/drink.png",
       items: [
         {
           title: "",
