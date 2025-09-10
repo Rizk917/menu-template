@@ -18,46 +18,46 @@ const data = {
       id: "manakish",
       title: "",
       title_ar: "مناقيش",
-      image: "public/assets/products/mankousheJebne.jpg",
+      image: "./assets/products/mankousheJebne.jpg",
       items: [
         {
           title: "",
           title_ar: " زعتر",
           price_usd: 0.8,
-          image: "public/assets/products/mankoushetZaatar.jpg",
+          image: "./assets/products/mankoushetZaatar.jpg",
         },
         {
           title: "",
           title_ar: " جبنه",
           price_usd: 2.6,
-          image: "public/assets/products/mankousheJebne.jpg",
+          image: "./assets/products/mankousheJebne.jpg",
         },
         {
           title: "",
           title_ar: " كشك",
           price_usd: 2.25,
-          image: "public/assets/products/mankoushetKeshek.jpg",
+          image: "./assets/products/mankoushetKeshek.jpg",
         },
 
         {
           title: "",
           title_ar: " كوكتيل",
           price_usd: 2.35,
-          image: "public/assets/products/mankoushetCocktail.jpg",
+          image: "./assets/products/mankoushetCocktail.jpg",
         },
 
         {
           title: "",
           title_ar: " لبنة",
           price_usd: 2,
-          image: "public/assets/products/MankhoushtLabne.jpg",
+          image: "./assets/products/MankhoushtLabne.jpg",
         },
 
         {
           title: "",
           title_ar: " بندورة وبصل ",
           price_usd: 1.9,
-          image: "public/assets/products/mankoushetKhudra.jpg",
+          image: "./assets/products/mankoushetKhudra.jpg",
         },
 
         {
@@ -78,28 +78,28 @@ const data = {
           title: "",
           title_ar: " حبش وقشقوان ",
           price_usd: 2.8,
-          image: "public/assets/products/mankoushetHabashJebne.jpg",
+          image: "./assets/products/mankoushetHabashJebne.jpg",
         },
 
         {
           title: "",
           title_ar: " لحمة",
           price_usd: 3.05,
-          image: "public/assets/products/mankoushetLahme.jpg",
+          image: "./assets/products/mankoushetLahme.jpg",
         },
 
         {
           title: "",
           title_ar: " بيتزا",
           price_usd: 3.25,
-          image: "public/assets/products/mankoushetPizza.jpg",
+          image: "./assets/products/mankoushetPizza.jpg",
         },
 
         {
           title: "",
           title_ar: " سجق وجبنه",
           price_usd: 4,
-          image: "public/assets/products/mankoushtSojokJebne.jpg",
+          image: "./assets/products/mankoushtSojokJebne.jpg",
         },
 
         {
@@ -115,13 +115,13 @@ const data = {
       id: "manakish mashruha",
       title: "",
       title_ar: "مناقيش مشروحة",
-      image: "public/assets/products/zaatarMashruha.jpg",
+      image: "./assets/products/zaatarMashruha.jpg",
       items: [
         {
           title: "",
           title_ar: " زعتر",
           price_usd: 0.95,
-          image: "public/assets/products/zaatarMashruha.jpg",
+          image: "./assets/products/zaatarMashruha.jpg",
         },
         {
           title: "",
@@ -183,25 +183,25 @@ const data = {
       id: "Jrish",
       title: "",
       title_ar: "جريش",
-      image: "public/assets/products/JrishHabashJebne.jpg",
+      image: "./assets/products/JrishHabashJebne.jpg",
       items: [
         {
           title: "",
           title_ar: " زعتر",
           price_usd: 1.7,
-          image: "public/assets/products/zaatarJrish.jpg",
+          image: "./assets/products/zaatarJrish.jpg",
         },
         {
           title: "",
           title_ar: " جبنه",
           price_usd: 2.9,
-          image: "public/assets/products/jebneJrish.jpg",
+          image: "./assets/products/jebneJrish.jpg",
         },
         {
           title: "",
           title_ar: " كشك",
           price_usd: 2.5,
-          image: "public/assets/products/JrishKeshek.jpg",
+          image: "./assets/products/JrishKeshek.jpg",
         },
         {
           title: "",
@@ -214,14 +214,14 @@ const data = {
           title: "",
           title_ar: " لبنة",
           price_usd: 2.5,
-          image: "public/assets/products/JrishLabne.jpg",
+          image: "./assets/products/JrishLabne.jpg",
         },
 
         {
           title: "",
           title_ar: " بندورة وبصل ",
           price_usd: 2.35,
-          image: "public/assets/products/JrishKhudra.jpg",
+          image: "./assets/products/JrishKhudra.jpg",
         },
 
         {
@@ -240,7 +240,7 @@ const data = {
           title: "",
           title_ar: " حبش وقشقوان ",
           price_usd: 3.6,
-          image: "public/assets/products/JrishHabashJebne.jpg",
+          image: "./assets/products/JrishHabashJebne.jpg",
         },
         {
           title: "",
@@ -254,13 +254,13 @@ const data = {
       id: "ka3ek",
       title: "",
       title_ar: " كعكة",
-      image: "public/assets/products/kaakeSeda.jpg",
+      image: "./assets/products/kaakeSeda.jpg",
       items: [
         {
           title: "",
           title_ar: " سادة",
           price_usd: 0.9,
-          image: "public/assets/products/kaakeSeda.jpg",
+          image: "./assets/products/kaakeSeda.jpg",
         },
         {
           title: "",
@@ -284,7 +284,7 @@ const data = {
           title: "",
           title_ar: " حلوم ",
           price_usd: 3.25,
-          image: "public/assets/products/kaakeHalloum.jpg",
+          image: "./assets/products/kaakeHalloum.jpg",
         },
         {
           title: "",
@@ -309,7 +309,7 @@ const data = {
           title: "",
           title_ar: " قشقوان",
           price_usd: 3.4,
-          image: "public/assets/products/kaakeKashkawan.jpg",
+          image: "./assets/products/kaakeKashkawan.jpg",
         },
 
         {
@@ -352,31 +352,31 @@ const data = {
       id: "ka3ekeh trabulsiyeh",
       title: "",
       title_ar: "كعكة طرابلسية ",
-      image: "public/assets/products/trabolsiyeSeda.jpg",
+      image: "./assets/products/trabolsiyeSeda.jpg",
       items: [
         {
           title: "",
           title_ar: " سادة",
           price_usd: 0.45,
-          image: "public/assets/products/trabolsiyeSeda.jpg",
+          image: "./assets/products/trabolsiyeSeda.jpg",
         },
         {
           title: "",
           title_ar: "قشقوان",
           price_usd: 2.8,
-          image: "public/assets/products/trabolsiyeKashkawan.jpg",
+          image: "./assets/products/trabolsiyeKashkawan.jpg",
         },
         {
           title: "",
           title_ar: " حبش وقشقوان",
           price_usd: 2.7,
-          image: "public/assets/products/trabolsiyeHabashwJebne.jpg",
+          image: "./assets/products/trabolsiyeHabashwJebne.jpg",
         },
         {
           title: "",
           title_ar: " عكاوي",
           price_usd: 2.5,
-          image: "public/assets/products/trabolsiye3ekewe.jpg",
+          image: "./assets/products/trabolsiye3ekewe.jpg",
         },
 
         {
@@ -419,19 +419,19 @@ const data = {
       id: "Sandwich ",
       title: "",
       title_ar: " سندويش ",
-      image: "public/assets/products/sandwichLabneh.jpg",
+      image: "./assets/products/sandwichLabneh.jpg",
       items: [
         {
           title: "",
           title_ar: " لبنة",
           price_usd: 1.9,
-          image: "public/assets/products/sandwichLabneh.jpg",
+          image: "./assets/products/sandwichLabneh.jpg",
         },
         {
           title: "",
           title_ar: "حلوم",
           price_usd: 2.35,
-          image: "public/assets/products/sandwichHalloum.jpg",
+          image: "./assets/products/sandwichHalloum.jpg",
         },
         {
           title: "",
@@ -443,7 +443,7 @@ const data = {
           title: "",
           title_ar: " قشقوان ",
           price_usd: 2.6,
-          image: "public/assets/products/sandwichKashkawan.jpg",
+          image: "./assets/products/sandwichKashkawan.jpg",
         },
 
         {
@@ -456,7 +456,7 @@ const data = {
           title: "",
           title_ar: " حبش وقشقوان ",
           price_usd: 2.8,
-          image: "public/assets/products/sandwichHabashWjebne.jpg",
+          image: "./assets/products/sandwichHabashWjebne.jpg",
         },
 
         {
@@ -477,7 +477,7 @@ const data = {
           title: "",
           title_ar: "تونا",
           price_usd: 2.25,
-          image: "public/assets/products/sandwichTuna.jpg",
+          image: "./assets/products/sandwichTuna.jpg",
         },
       ],
     },
@@ -539,7 +539,7 @@ const data = {
       id: "Muaajanet ",
       title: "",
       title_ar: " معجنات سواريه ",
-      image: "public/assets/products/sbeneghKhalta.jpg",
+      image: "./assets/products/sbeneghKhalta.jpg",
       items: [
         {
           title: "",
@@ -551,19 +551,19 @@ const data = {
           title: "",
           title_ar: " سبانخ ",
           price_usd: 3.6,
-          image: "public/assets/products/sbeneghAade.jpg",
+          image: "./assets/products/sbeneghAade.jpg",
         },
         {
           title: "",
           title_ar: " سبانخ خلطة   ",
           price_usd: 3.9,
-          image: "public/assets/products/sbeneghKhalta.jpg",
+          image: "./assets/products/sbeneghKhalta.jpg",
         },
         {
           title: "",
           title_ar: " سبانخ خلطة مع لبنة ",
           price_usd: 4.5,
-          image: "public/assets/products/sbeneghKhalta.jpg",
+          image: "./assets/products/sbeneghKhalta.jpg",
         },
 
         {
@@ -576,19 +576,19 @@ const data = {
           title: "",
           title_ar: " بعلبكية ",
           price_usd: 4.5,
-          image: "public/assets/products/sfihaBaalbakeye.jpg",
+          image: "./assets/products/sfihaBaalbakeye.jpg",
         },
         {
           title: "",
           title_ar: " بيروتية ",
           price_usd: 0.85,
-          image: "public/assets/products/soireBeirutiyeh.jpg",
+          image: "./assets/products/soireBeirutiyeh.jpg",
         },
         {
           title: "",
           title_ar: "  طرابلسية  ",
           price_usd: 0.85,
-          image: "public/assets/products/trabolsiyeLahme.jpg",
+          image: "./assets/products/trabolsiyeLahme.jpg",
         },
         {
           title: "",
@@ -606,7 +606,7 @@ const data = {
           title: "",
           title_ar: " سمبوسك جبنة ",
           price_usd: 4.5,
-          image: "public/assets/products/sambousikJebneh.jpg",
+          image: "./assets/products/sambousikJebneh.jpg",
         },
         {
           title: "",
@@ -651,38 +651,38 @@ const data = {
       id: "Kaak + اثمخ ",
       title: "",
       title_ar: "  كعك مشكل + كعك حلو",
-      image: "public/assets/products/kaakMshakal.jpg",
+      image: "./assets/products/kaakMshakal.jpg",
       items: [
         {
           title: "",
           title_ar: "  كعك دبس ",
           price_usd: 2.35,
-          image: "public/assets/products/kaakDebes.jpg",
+          image: "./assets/products/kaakDebes.jpg",
         },
         {
           title: "",
           title_ar: " كعك بزعتر ",
           price_usd: 2.25,
-          image: "public/assets/products/kaakZaatar.jpg",
+          image: "./assets/products/kaakZaatar.jpg",
         },
         {
           title: "",
           title_ar: " كعك حلو   ",
           price_usd: 2.35,
-          image: "public/assets/products/kaakHelo.jpg",
+          image: "./assets/products/kaakHelo.jpg",
         },
         {
           title: "",
           title_ar: "  كعك ترمسية ",
           price_usd: 2.25,
-          image: "public/assets/products/kaakeTromsiyeh.jpg",
+          image: "./assets/products/kaakeTromsiyeh.jpg",
         },
 
         {
           title: "",
           title_ar: " كعك مشكل ",
           price_usd: 1.8,
-          image: "public/assets/products/kaakMshakal.jpg",
+          image: "./assets/products/kaakMshakal.jpg",
         },
         {
           title: "",
@@ -700,19 +700,19 @@ const data = {
           title: "",
           title_ar: " توست زبيب ",
           price_usd: 2.35,
-          image: "public/assets/products/kaakZbibToast.jpg",
+          image: "./assets/products/kaakZbibToast.jpg",
         },
         {
           title: "",
           title_ar: " كعك العباس ",
           price_usd: 1.1,
-          image: "public/assets/products/kaakAlAbbas.jpg",
+          image: "./assets/products/kaakAlAbbas.jpg",
         },
         {
           title: "",
           title_ar: " كعك لايت ",
           price_usd: 2.25,
-          image: "public/assets/products/kaakLight.jpg",
+          image: "./assets/products/kaakLight.jpg",
         },
         {
           title: "",
@@ -748,7 +748,7 @@ const data = {
           title: "",
           title_ar: "  كراكرز +حر وزعتر و زيتون ",
           price_usd: 2.34,
-          image: "public/assets/products/krakerz2.jpg",
+          image: "./assets/products/krakerz2.jpg",
         },
       ],
     },
@@ -756,61 +756,61 @@ const data = {
       id: "Patisserie ",
       title: "",
       title_ar: " باتيسري ",
-      image: "public/assets/products/petitFourLight.jpg",
+      image: "./assets/products/petitFourLight.jpg",
       items: [
         {
           title: "",
           title_ar: "  1kg بتي فور ",
           price_usd: 14.6,
-          image: "public/assets/products/kgPetitfour.jpg",
+          image: "./assets/products/kgPetitfour.jpg",
         },
         {
           title: "",
           title_ar: "  علبة بتي فور دايت  ",
           price_usd: 2.5,
-          image: "public/assets/products/petitFourLight.jpg",
+          image: "./assets/products/petitFourLight.jpg",
         },
         {
           title: "",
           title_ar: "  بسكويت شوكولا دايت ",
           price_usd: 2.9,
-          image: "public/assets/products/BiscuitChocoLight.jpg",
+          image: "./assets/products/BiscuitChocoLight.jpg",
         },
         {
           title: "",
           title_ar: " حبة تارت مشمش ",
           price_usd: 1.35,
-          image: "public/assets/products/tartzghit.jpg",
+          image: "./assets/products/tartzghit.jpg",
         },
         {
           title: "",
           title_ar: " حبة تارت فريز ",
           price_usd: 1.35,
-          image: "public/assets/products/tartzghit.jpg",
+          image: "./assets/products/tartzghit.jpg",
         },
         {
           title: "",
           title_ar: "  قالب تارت كبير مشمش ",
           price_usd: 7.5,
-          image: "public/assets/products/tartKbir.jpg",
+          image: "./assets/products/tartKbir.jpg",
         },
         {
           title: "",
           title_ar: "  قالب تارت كبير فريز ",
           price_usd: 7.5,
-          image: "public/assets/products/tartKbir.jpg",
+          image: "./assets/products/tartKbir.jpg",
         },
         {
           title: "",
           title_ar: " حبة سابليه  ",
           price_usd: 1.35,
-          image: "public/assets/products/sable.jpg",
+          image: "./assets/products/sable.jpg",
         },
         {
           title: "",
           title_ar: " حبة سابليه قلوبات ",
           price_usd: 1.6,
-          image: "public/assets/products/sable.jpg",
+          image: "./assets/products/sable.jpg",
         },
         {
           title: "",
@@ -828,7 +828,7 @@ const data = {
           title: "",
           title_ar: " قالب كيك ",
           price_usd: 3.95,
-          image: "public/assets/products/cake.jpg",
+          image: "./assets/products/cake.jpg",
         },
         {
           title: "",
@@ -840,38 +840,38 @@ const data = {
           title: "",
           title_ar: "   علبة  كوكيز  ",
           price_usd: 2.8,
-          image: "public/assets/products/cookies.jpg",
+          image: "./assets/products/cookies.jpg",
         },
 
         {
           title: "",
           title_ar: "علبة برازق فستق عبيد  ",
           price_usd: 2.5,
-          image: "public/assets/products/baraziFestokAbid.jpg",
+          image: "./assets/products/baraziFestokAbid.jpg",
         },
         {
           title: "",
           title_ar: "  علبة غريبة بيضاء ",
           price_usd: 2.5,
-          image: "public/assets/products/ghraybeBayda.jpg",
+          image: "./assets/products/ghraybeBayda.jpg",
         },
         {
           title: "",
           title_ar: " علبة أصابع تمر ",
           price_usd: 2.35,
-          image: "public/assets/products/asabeeTamer.jpg",
+          image: "./assets/products/asabeeTamer.jpg",
         },
         {
           title: "",
           title_ar: "  قرص تمر ",
           price_usd: 0.55,
-          image: "public/assets/products/korosTamer.jpg",
+          image: "./assets/products/korosTamer.jpg",
         },
         {
           title: "",
           title_ar: " قرص جوز الهند ",
           price_usd: 0.8,
-          image: "public/assets/products/korosJozHened.jpg",
+          image: "./assets/products/korosJozHened.jpg",
         },
       ],
     },
@@ -879,39 +879,39 @@ const data = {
       id: "Beriosh ",
       title: "",
       title_ar: " بريوش ",
-      image: "public/assets/products/berioshSekkar.jpg",
+      image: "./assets/products/berioshSekkar.jpg",
       items: [
         {
           title: "",
           title_ar: " بريوش سكر  ",
           price_usd: 1.34,
-          image: "public/assets/products/berioshSekkar.jpg",
+          image: "./assets/products/berioshSekkar.jpg",
         },
         {
           title: "",
           title_ar: " بريوش مجدول صغير ",
           price_usd: 1.34,
-          image: "public/assets/products/berioshMajdoulKbir+zghir.jpg",
+          image: "./assets/products/berioshMajdoulKbir+zghir.jpg",
         },
         {
           title: "",
           title_ar: " بريوش مجدول كبير ",
           price_usd: 2.47,
-          image: "public/assets/products/berioshMajdoulKbir+zghir.jpg",
+          image: "./assets/products/berioshMajdoulKbir+zghir.jpg",
         },
         {
           title: "",
 
           title_ar: " بريوش تمر صغير ",
           price_usd: 0.78,
-          image: "public/assets/products/berioshTamerkbirZghir.jpg",
+          image: "./assets/products/berioshTamerkbirZghir.jpg",
         },
 
         {
           title: "",
           title_ar: " بريوش تمر كبير ",
           price_usd: 1.34,
-          image: "public/assets/products/berioshTamerkbirZghir.jpg",
+          image: "./assets/products/berioshTamerkbirZghir.jpg",
         },
         {
           title: "",
@@ -937,19 +937,19 @@ const data = {
       id: " Franje + Burger ",
       title: "",
       title_ar: " افرنجي + برغر ",
-      image: "public/assets/products/khebez.jpg",
+      image: "./assets/products/khebez.jpg",
       items: [
         {
           title: "",
           title_ar: " حبة فاهيتا  ",
           price_usd: 0.28,
-          image: "public/assets/products/KhebezzFahita.jpg",
+          image: "./assets/products/KhebezzFahita.jpg",
         },
         {
           title: "",
           title_ar: "  حبة افرنجي ",
           price_usd: 0.16,
-          image: "public/assets/products/franje.jpg",
+          image: "./assets/products/franje.jpg",
         },
         {
           title: "",
@@ -961,7 +961,7 @@ const data = {
           title: "",
           title_ar: "  حبة ثميت ",
           price_usd: 0.9,
-          image: "public/assets/products/franjeSmit.jpg",
+          image: "./assets/products/franjeSmit.jpg",
         },
         {
           title: "",
@@ -973,19 +973,19 @@ const data = {
           title: "",
           title_ar: " حبة برغر ",
           price_usd: 0.19,
-          image: "public/assets/products/burger.jpg",
+          image: "./assets/products/burger.jpg",
         },
         {
           title: "",
           title_ar: " حبة ب.ب  ",
           price_usd: 0.11,
-          image: "public/assets/products/franjeBebe.jpg",
+          image: "./assets/products/franjeBebe.jpg",
         },
         {
           title: "",
           title_ar: " حبةافرنجي كبير  ",
           price_usd: 0.19,
-          image: "public/assets/products/franje.jpg",
+          image: "./assets/products/franje.jpg",
         },
         {
           title: "",
@@ -1011,37 +1011,37 @@ const data = {
           title: "",
           title_ar: "عصير",
           price_usd: 0.67,
-          image: "public/assets/products/3asir 067.jpg",
+          image: "./assets/products/3asir 067.jpg",
         },
         {
           title: "",
           title_ar: "لبن عيران ",
           price_usd: 0.78,
-          image: "public/assets/products/laban3iran078.jpg",
+          image: "./assets/products/laban3iran078.jpg",
         },
         {
           title: "",
           title_ar: "لبن عيران ",
           price_usd: 0.78,
-          image: "public/assets/products/mashrubetGhaziye078.jpg",
+          image: "./assets/products/mashrubetGhaziye078.jpg",
         },
         {
           title: "",
           title_ar: "مشربة غازية ",
           price_usd: 0.78,
-          image: "public/assets/products/mashrubetGhaziye078.jpg",
+          image: "./assets/products/mashrubetGhaziye078.jpg",
         },
         {
           title: "",
           title_ar: "ماء كبير ",
           price_usd: 0.56,
-          image: "public/assets/products/maykbir056zghir034.jpg",
+          image: "./assets/products/maykbir056zghir034.jpg",
         },
         {
           title: "",
           title_ar: "ماء صغير ",
           price_usd: 0.34,
-          image: "public/assets/products/maykbir056zghir034.jpg",
+          image: "./assets/products/maykbir056zghir034.jpg",
         },
       ],
     },
