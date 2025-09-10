@@ -18,7 +18,7 @@ const data = {
       id: "manakish",
       title: "",
       title_ar: "مناقيش",
-      image: "src/assets/products/mankousheJebne.jpg",
+      image: "./assets/products/mankousheJebne.jpg",
       items: [
         {
           title: "",
